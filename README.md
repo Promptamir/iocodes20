@@ -1,4 +1,4 @@
-<h1 align="center">emmmm, hey? I'm Amir.</h1>
+<h1 align="center">It's Amir.</h1>
 <h3 align="center">Tryna Transition from a sysadmin to DevOps engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iocodes20&label=Profile%20views&color=0e75b6&style=flat" alt="iocodes20" /> </p>
