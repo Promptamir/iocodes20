@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **In a world where kernels panic, one sudo at a time. 🦉**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Vahedi2003amirh@gmail.com</h3>
 <p align="left">
 </p>
 
