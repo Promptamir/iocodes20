@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iocodes20" alt="iocodes20" /></a> </p>
 
-- 🔭 I’m currently working on **LHS Service**
-
 - 📫 How to reach me **Vahedi2003amirh@gmail.com**
 
 - ⚡ Fun fact **In a world where kernels panic, one sudo at a time. 🦉**
